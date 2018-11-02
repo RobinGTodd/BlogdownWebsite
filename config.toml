@@ -91,7 +91,7 @@ canonifyURLs = true
 
   paragraph = "A DATA SCIENCE BLOG WITH AN EMPHASIS ON BEST STATISTICAL PRACTICES AND REPRODUCIBLE RESEARCH"
   
-  about     = "An experiment with blogging"
+  about     = "An experiment with blogging. Website created with the blogdown R package and the hugo-future-imperfect theme."
   
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
@@ -126,13 +126,19 @@ canonifyURLs = true
   name = "Blog"
   url = "/blog/"
   identifier = "fa fa-newspaper-o"
+  weight = 4
+
+[[menu.main]]
+  name = "CV"
+  url = "/CV/"
+  identifier = "fa fa-newspaper-o"
   weight = 3
 
-#[[menu.main]]
-#  name = "Itemized"
-#  url = "/itemized/"
-#  identifier = "fa fa-list"
-#  weight = 4
+[[menu.main]]
+  name = "cv"
+  url = "/cv/"
+  identifier = "fa fa-list"
+  weight = 4
 
 #[[menu.main]]
 #  name = "Categories"
