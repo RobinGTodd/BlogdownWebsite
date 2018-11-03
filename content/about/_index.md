@@ -6,7 +6,7 @@ date = "2018-11-03"
 ## Contact
 <dl>
   <dd>Robin Todd\
-  <R.genevieve.todd@gmail.com></dd>
+  R.Genevieve.Todd (AT) gmail.com</dd>
 
 
 ---------

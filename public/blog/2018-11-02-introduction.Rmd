@@ -8,10 +8,10 @@ tags: ["Introduction"]
 description: 'My goals'
 featured: 'beachflowers.jpg'
 featuredalt: ''
-featuredpath: 'date'
+featuredpath: 'img/main'
 linktitle: ''
 type: 'post'
 ---
 
 
-Does the picture show up if I add more text?
+Does the picture show up if I add m ore text?
