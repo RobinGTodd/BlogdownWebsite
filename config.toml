@@ -89,7 +89,7 @@ canonifyURLs = true
 [params.intro]
   header    = "Welcome"
 
-  paragraph = "A DATA SCIENCE BLOG WITH AN EMPHASIS ON BEST STATISTICAL PRACTICES AND REPRODUCIBLE RESEARCH"
+  paragraph = "A data science blog with an emphasis on best statistical practices and reproducible research"
   
   about     = "An experiment with blogging. Website created with the blogdown R package and the hugo-future-imperfect theme."
   
