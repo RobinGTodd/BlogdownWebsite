@@ -10,7 +10,7 @@ featured: 'beachflowers.jpg'
 featuredalt: ''
 featuredpath: 'date'
 linktitle: ''
-type: post
+type: 'post'
 ---
 
 
