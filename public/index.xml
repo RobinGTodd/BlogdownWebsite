@@ -6,19 +6,10 @@
     <description>Recent content on Welcome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 3018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Introduction</title>
-      <link>/blog/introduction/</link>
-      <pubDate>Mon, 02 Nov 3018 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/introduction/</guid>
-      <description>Does the picture show up if I add more text?</description>
-    </item>
     
     <item>
       <title>How to do ___ with R</title>
@@ -27,6 +18,15 @@
       
       <guid>/blog/2018-11-02-testing/</guid>
       <description> Introduction </description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>/blog/introduction/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/introduction/</guid>
+      <description>Does the picture show up if I add more text?</description>
     </item>
     
     <item>
