@@ -5,7 +5,7 @@ theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 10
 disqusShortname = "shortname"
-googleAnalytics = ""
+googleAnalytics = "UA-128959125-1"
 pluralizeListTitles = false
 # Set the followings to true as part of your site SEO
 enableRobotsTXT = true
@@ -120,7 +120,7 @@ canonifyURLs = true
   name = "About"
   url = "/about/"
   identifier = "fa fa-id-card-o"
-  weight = 4
+  weight = 6
 
 [[menu.main]]
   name = "Blog"
@@ -137,14 +137,14 @@ canonifyURLs = true
 #[[menu.main]]
 #  name = "cv"
 #  url = "/cv/"
-#  identifier = "fa fa-list"
-#  weight = 4
+#  identifier = "fa fa-list" 
+#  weight = 4 
 
-#[[menu.main]]
-#  name = "Categories"
-#  url = "/categories/"
-#  identifier = "fa fa-sitemap"
-#  weight = 5
+[[menu.main]]
+  name = "Categories" 
+  url = "/categories/"
+  identifier = "fa fa-sitemap"
+  weight = 4
 
 #[[menu.main]]
 #  name = "Contact"
@@ -157,7 +157,7 @@ canonifyURLs = true
 # and socialAppearAtBottom.
 [social]
   # Coding Communities
-  github           = "jpescador/hugo-future-imperfect"
+  github           = "RobinGTodd"
   gitlab           = ""
   stackoverflow    = "" # User Number
   bitbucket        = ""
@@ -172,7 +172,7 @@ canonifyURLs = true
   wordpress        = ""
   medium           = ""
   # Professional/Business Oriented Communities
-  linkedin         = "example"
+  linkedin         = "robin-todd-4120534a/"
   linkedin_company = ""
   foursquare       = ""
   xing             = ""
@@ -200,4 +200,4 @@ canonifyURLs = true
   orcid            = ""
   researchgate     = ""
   # Email
-  email            = "example"
+  email            = ""
