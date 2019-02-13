@@ -12,21 +12,23 @@
     
     
     <item>
-      <title>How to do ___ with R</title>
-      <link>/blog/2018-11-02-testing/</link>
-      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2018-11-02-testing/</guid>
-      <description> Introduction </description>
-    </item>
-    
-    <item>
-      <title>Introduction</title>
+      <title>Getting Started with R&#34;</title>
       <link>/blog/introduction/</link>
       <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>/blog/introduction/</guid>
-      <description>Does the picture show up if I add m ore text?</description>
+      <description> true  Introduction Hello! I hope this is an informative (and fun) introduction to R.
+Let’s start by going through the installation process. You will need to install R from CRAN and then R Studio. There are many resources available to walk you through this process
+ </description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>/blog/2018-11-02-testing/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018-11-02-testing/</guid>
+      <description></description>
     </item>
     
     <item>

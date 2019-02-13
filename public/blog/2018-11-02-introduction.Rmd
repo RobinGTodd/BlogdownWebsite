@@ -1,17 +1,22 @@
 ---
-title: 'Introduction'
+title: 'Getting Started with R"'
 author: 'Robin Todd'
 date: '2018-11-02'
 slug: 'introduction'
 categories: ["Welcome"]
 tags: ["Introduction"]
-description: 'My goals'
+description: 'A guide for installation and basic programming'
 featured: 'beachflowers.jpg'
 featuredalt: ''
 featuredpath: 'img/main'
 linktitle: ''
 type: 'post'
+toc: true
 ---
 
+## Introduction
+Hello! I hope this is an informative (and fun) introduction to R.
 
-Does the picture show up if I add m ore text?
+Let's start by going through the installation process. You will need to install 
+R from CRAN and then R Studio. There are many resources available to walk you 
+through this process

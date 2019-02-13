@@ -7,6 +7,7 @@
         <!-- Post -->
         {{ $.Scratch.Set "h1" true }}
         {{ .Render "content-single" }}
+        {{ .TableOfContents }}
     </div>
     {{ partial "sidebar" . }}
 {{ partial "footer" . }}
